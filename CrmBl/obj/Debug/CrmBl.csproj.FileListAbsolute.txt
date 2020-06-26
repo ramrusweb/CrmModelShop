@@ -1,0 +1,14 @@
+C:\Users\rrm1\Desktop\CrmModelShop\CrmBl\bin\Debug\CrmBl.dll.config
+C:\Users\rrm1\Desktop\CrmModelShop\CrmBl\bin\Debug\CrmBl.dll
+C:\Users\rrm1\Desktop\CrmModelShop\CrmBl\bin\Debug\CrmBl.pdb
+C:\Users\rrm1\Desktop\CrmModelShop\CrmBl\bin\Debug\EntityFramework.dll
+C:\Users\rrm1\Desktop\CrmModelShop\CrmBl\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\rrm1\Desktop\CrmModelShop\CrmBl\bin\Debug\EntityFramework.xml
+C:\Users\rrm1\Desktop\CrmModelShop\CrmBl\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\rrm1\Desktop\CrmModelShop\CrmBl\obj\Debug\CrmBl.csproj.CoreCompileInputs.cache
+C:\Users\rrm1\Desktop\CrmModelShop\CrmBl\obj\Debug\CrmBl.csproj.CopyComplete
+C:\Users\rrm1\Desktop\CrmModelShop\CrmBl\obj\Debug\CrmBl.dll
+C:\Users\rrm1\Desktop\CrmModelShop\CrmBl\obj\Debug\CrmBl.pdb
+C:\Users\rrm1\Desktop\CrmModelShop\CrmBl\obj\Debug\CrmBl.Migrations.update120420.resources
+C:\Users\rrm1\Desktop\CrmModelShop\CrmBl\obj\Debug\CrmBL.csproj.GenerateResource.cache
+C:\Users\rrm1\Desktop\CrmModelShop\CrmBl\obj\Debug\CrmBL.csprojAssemblyReference.cache
